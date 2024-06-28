@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.069986a3.css",
+    "main.js": "/static/js/main.b2684982.js",
+    "static/media/connect.png": "/static/media/connect.4c8de659a52123a446b2.png",
+    "static/media/lo.png": "/static/media/lo.3c8cac2da311f9468901.png",
+    "static/media/gamers.jpg": "/static/media/gamers.3a0758499136babf9c17.jpg",
+    "static/media/download.jpg": "/static/media/download.fe38d59afdc16811eaaa.jpg",
+    "static/media/downloadd.jpg": "/static/media/downloadd.fe38d59afdc16811eaaa.jpg",
+    "static/media/loader.gif": "/static/media/loader.1952935ed80fba5926fe.gif",
+    "static/media/google.png": "/static/media/google.e12914ad8afda3f6f2e8.png",
+    "static/media/typing.gif": "/static/media/typing.e7140736af20c151a7b0.gif",
+    "index.html": "/index.html",
+    "main.069986a3.css.map": "/static/css/main.069986a3.css.map",
+    "main.b2684982.js.map": "/static/js/main.b2684982.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.069986a3.css",
+    "static/js/main.b2684982.js"
+  ]
+}
